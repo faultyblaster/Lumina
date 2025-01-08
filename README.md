@@ -1,3 +1,3 @@
 # Lumina
 
-I'm learning, here is the proff.
+I'm learning, here is the proof.
